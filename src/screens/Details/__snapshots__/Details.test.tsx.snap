@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details should render 1`] = `
+<View>
+  <Text>
+    Details
+  </Text>
+</View>
+`;
